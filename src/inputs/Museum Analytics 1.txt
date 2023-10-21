@@ -1,0 +1,5 @@
+4
+Juab Canyonwhirl,South Jordan Swiftclaw,Saltlakosaurus,Provopteryx
+Provopteryx,Redrockraptor,San Juanosaurus
+Wasatchceratops
+Vermilionvelociraptor,San Juanosaurus,Provopteryx,Wasatchceratops

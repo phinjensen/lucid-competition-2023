@@ -1,0 +1,6 @@
+5
+Provopteryx,Vermilionvelociraptor,Utahraptorix
+Utahraptorix,Wasatchceratops,San Juanosaurus,Escalantespin
+South Jordan Swiftclaw,Redrockraptor,Saltlakosaurus,Wasatchceratops
+Wasatchceratops,South Jordan Swiftclaw,Utahraptorix
+Escalantespin,Utahraptorix

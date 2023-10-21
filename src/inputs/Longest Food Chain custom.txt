@@ -1,0 +1,9 @@
+8
+A <- B, C
+B <- C
+C <- D, E
+E <- F
+G <- A
+H <- J
+I <- J
+J <- A

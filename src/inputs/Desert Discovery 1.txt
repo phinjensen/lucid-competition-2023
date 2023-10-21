@@ -1,0 +1,34 @@
+3
+Ankylosaurus
+3
+Armor Plates
+Heavy Skull
+Tail Club
+Stegosaurus
+3
+Armor Plates
+Small Skull
+Tail Spikes
+Diplodocus
+4
+Very Long Neck
+Chevron Bones
+Very Long Tail
+Small Thin Teeth
+4
+2
+Armor Plates
+Heavy Skull
+2
+Armor Plates
+Tail Spikes
+2
+Small Thin Teeth
+Very Long Tail
+6
+Armor Plates
+Enormous Eye Sockets
+Heavy Skull
+Six Legs
+Tail Club
+Opposable Thumbs
